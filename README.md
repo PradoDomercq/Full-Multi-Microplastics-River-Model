@@ -14,3 +14,8 @@ The modelled system consists of a generic one directional river structure where 
 
 ![Alt text](https://github.com/PradoDomercq/Nano2Plast_RiverModel/blob/main/FigureGenericRiver.png "Generic River")
 
+
+OPEN SOURCE CODE WILL BE AVAILABLE SOON!
+
+For an early invitation to the repository contact prado.domercq@aces.su.se by providing your GitHub userame
+
