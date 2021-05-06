@@ -10,13 +10,14 @@ The code contained in this repository is intended as a framework to study microp
 
 The model can be parameterised for different microplastic types (composition, shape, size, etc.) and river characteristics (flow velocity, suspended particulates, dimensions, etc.). Furthermore, this framework is intended as a  flexible tool where new or updated fate processes can be included or reparameterised easily. 
 
-This model follows a modular multimedia mass-balance modelling approach in which a system of coupled mass balance equations is built describing the transformation and transport processes of the plastic particles within the modelled system with specific rate constants. The fate and trqnsport process already included are: agreggation with surpended particulates, biofouling, aggregate breack-up, fragmentation, degradation, settling, resuspension, advection, sediment transport, burial in the deep sediment. 
+This model follows a modular multimedia mass-balance modelling approach in which a system of coupled mass balance equations is built describing the transformation and transport processes of the plastic particles within the modelled system with specific rate constants. 
+The fate and transport process already included are: agreggation with surpended particulates, biofouling, aggregate breack-up, fragmentation, degradation, settling, resuspension, advection, sediment transport, burial in the deep sediment. 
 
 
 ![Alt text](https://github.com/PradoDomercq/Nano2Plast_RiverModel/blob/main/FigureGenericRiver.png "Generic River")
 
 
-OPEN SOURCE CODE WILL BE AVAILABLE SOON!
+We are currently in the process of publication but OPEN SOURCE CODE WILL BE AVAILABLE SOON.
 
 For an early invitation to the repository contact prado.domercq@aces.su.se by providing your GitHub userame
 
